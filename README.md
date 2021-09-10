@@ -6,4 +6,8 @@ Ansible
 Kubernetes
 Terraform
 Python
-
+Maven
+Docker
+Nexus
+Jenkins
+sonarqube
